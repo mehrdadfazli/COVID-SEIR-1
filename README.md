@@ -1,7 +1,7 @@
 [![IEEE](https://img.shields.io/badge/IEEE-Xplore-9cf)](https://ieeexplore.ieee.org/abstract/document/9671543)
 [![medRxiv](https://img.shields.io/badge/medRxiv-2021.10.19-blue)](https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1) [![mendeley](https://img.shields.io/badge/Mendeley-Add%20to%20Library-critical.svg)](https://www.mendeley.com/import/?url=https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1) [![contributions-welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Shakeri-Lab/COVID-SEIR/pulls) [![researchgate](https://img.shields.io/badge/ResearchGate-HHAR_net-blue.svg?style=flat)](https://www.researchgate.net/publication/355470285_Wastewater-Based_Epidemiological_Modeling_for_Continuous_Surveillance_of_COVID-19_Outbreak)
 
-
+Referenced paper : [Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study](https://arxiv.org/abs/2212.08798)
 
 COVID-19 Wastewater Surveillance: An Epidemiological Model :mask:
 =============================================================
