@@ -1,3 +1,4 @@
+[![IEEE](https://img.shields.io/badge/IEEE-Xplore-9cf)](https://ieeexplore.ieee.org/abstract/document/9671543)
 [![medRxiv](https://img.shields.io/badge/medRxiv-2021.10.19-blue)](https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1) [![mendeley](https://img.shields.io/badge/Mendeley-Add%20to%20Library-critical.svg)](https://www.mendeley.com/import/?url=https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1) [![contributions-welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Shakeri-Lab/COVID-SEIR/pulls) [![researchgate](https://img.shields.io/badge/ResearchGate-HHAR_net-blue.svg?style=flat)](https://www.researchgate.net/publication/355470285_Wastewater-Based_Epidemiological_Modeling_for_Continuous_Surveillance_of_COVID-19_Outbreak)
 
 
@@ -75,15 +76,13 @@ In this study, we implemented a SEIR model for three cases of using merely case 
 Cite us:
 ---
 ```
-@article {Fazli2021.10.19.21265221,
-	author = {Fazli, Mehrdad and Sklar, Samuel and Porter, Michael D and French, Brent A and Shakeri, Heman},
-	title = {Wastewater-Based Epidemiological Modeling for Continuous Surveillance of COVID-19 Outbreak},
-	elocation-id = {2021.10.19.21265221},
-	year = {2021},
-	doi = {10.1101/2021.10.19.21265221},
-	publisher = {Cold Spring Harbor Laboratory Press},
-	URL = {https://www.medrxiv.org/content/early/2021/10/20/2021.10.19.21265221},
-	eprint = {https://www.medrxiv.org/content/early/2021/10/20/2021.10.19.21265221.full.pdf},
-	journal = {medRxiv}
-}
+@INPROCEEDINGS{9671543,
+  author={Fazli, Mehrdad and Sklar, Samuel and Porter, Michael D. and French, Brent A. and Shakeri, Heman},
+  booktitle={2021 IEEE International Conference on Big Data (Big Data)}, 
+  title={Wastewater-Based Epidemiological Modeling for Continuous Surveillance of COVID-19 Outbreak}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={4342-4349},
+  doi={10.1109/BigData52589.2021.9671543}}
 ```
